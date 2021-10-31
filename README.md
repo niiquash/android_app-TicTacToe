@@ -7,7 +7,7 @@ The button changes color after each click, and the button is disabled, to avoid 
 
 I created this app to further learn the application of Kotlin.
 
-[Software Demo Video](https://youtu.be/tgD5IMvvZfI)
+[I made a demo of the game here.](https://youtu.be/tgD5IMvvZfI)
 
 # Development Environment
 
@@ -17,7 +17,6 @@ I created this app to further learn the application of Kotlin.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Android Apps - Wikipedia](https://en.wikipedia.org/wiki/Android_software_development)
 * [android studio](https://developer.android.com/studio)
 
