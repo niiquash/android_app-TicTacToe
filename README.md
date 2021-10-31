@@ -22,7 +22,6 @@ I created this app to further learn the application of Kotlin.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Modify game for user vs CPU
 * Add more colors to make game more attractive
 * Add a reset button
